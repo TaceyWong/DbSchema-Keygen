@@ -1,2 +1,25 @@
 # DbSchema-Keygen
 DbSchema序列号生成器
+
+### 脚本启动
+
+```bash
+$ git clone 
+$ cd DbSchema-Keygen
+$ python keygen.py
+```
+
+### 可执行文件启动
+
++ linux：[下载](https://github.com/TaceyWong/DbSchema-Keygen/releases/download/v0.1/DbSchema-Keygen-for-linux)
++ windows：[下载（尚未打包）]()
+
+
+
+![1](./screen/1.png)
+
+![2](./screen/2.png)
+
+![3](./screen/3.png)
+
+![4](./screen/4.png)
