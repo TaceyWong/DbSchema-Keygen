@@ -1,7 +1,21 @@
-# DbSchema-Keygen
+# DbSchema-Keygen 
+
 DbSchema序列号生成器
 
-### 脚本启动
+**仅限于个人用途,不差钱的还是买正版授权比较好**
+
+## 使用
+
+
+### 免安装
+
+不介意授权名称的，可以使用下面这个授权码：
+```bash
+用户名:one
+序列号:0d6813904c65feaae30325e321b2f29f612c4
+```
+
+### Python脚本启动
 
 ```bash
 $ git clone 
@@ -11,8 +25,11 @@ $ python keygen.py
 
 ### 可执行文件启动
 
-+ linux：[下载](https://github.com/TaceyWong/DbSchema-Keygen/releases/download/v0.1/DbSchema-Keygen-for-linux)
-+ windows：[下载（尚未打包）]()
++ linux：
+    + GUI版本：[下载](https://github.com/TaceyWong/DbSchema-Keygen/releases/download/v0.1/DbSchema-Keygen-for-linux-GUI)
+    + CLI版本: [下载](https://github.com/TaceyWong/DbSchema-Keygen/releases/download/v0.1/DbSchema-Keygen-for-linux-CLI)
++ windows：
+    + [下载（尚未打包）]()
 
 
 
