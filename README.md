@@ -25,7 +25,7 @@ $ python keygen.py
 
 ### 可执行文件启动
 
-+ linux：
++ linux（下载后注意赋予可执行权限）：
     + GUI版本：[下载](https://github.com/TaceyWong/DbSchema-Keygen/releases/download/v0.1/DbSchema-Keygen-for-linux-GUI)
     + CLI版本: [下载](https://github.com/TaceyWong/DbSchema-Keygen/releases/download/v0.1/DbSchema-Keygen-for-linux-CLI)
 + windows：
